@@ -1,0 +1,23 @@
+Counting in Binary - There are two digits 0 and 1
+
+Bits 1 2 4 8 16 32 64 128
+
+Relating numbers to letters
+ASCII bits representing letters
+American Standard Code for Information Interchange
+Uses 8 Bits
+Only permute bits in 256 possible ways
+Can't represent accents or other foreigm characters
+
+Once the world decided 8 bits wants enough, UNICODE was introduced where you use one, two, three, or four bytes to represent characters.
+Unicode = UTF8
+
+---
+
+RBG system to diplay colors
+0 to 255 numbers combined to display colors
+pixels make up an image
+videos are frames per second 
+
+Psuedocode is spoken language, like english
+Scratch, not a text based language but graphical
